@@ -4,6 +4,7 @@ public class Index {
     int b = 2;
     int c = 3;
     int d = 4;
-    System.out.println(a + b + c + d);
+    int e = 5;
+    System.out.println(a + b + c + d + e);
   }
 }
